@@ -1,5 +1,8 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Bem vindo(a) ao meu perfil!
 
+<img align="center" alt="Coding-gif" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="400" width="600">
+
+
 <b>Eu sou o Guilherme Augusto, tenho 17 e moro em Campinas, SP <img align="center" alt="Brasil" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/202/202851.png"> <br>
 Sou desenvolvedor Front-End para Web e Mobile. Atualmente estudo no COTUCA (Colégio Técnico de Campinas), cursando o 3º ano de Informática!<b>
 
