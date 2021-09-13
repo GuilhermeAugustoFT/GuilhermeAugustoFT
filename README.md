@@ -1,10 +1,16 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Bem vindo(a) ao meu perfil!
 
-<img align="center" alt="Coding-gif" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="400" width="600">
 
-
-<b>Eu sou o Guilherme Augusto, tenho 17 e moro em Campinas, SP <img align="center" alt="Brasil" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/202/202851.png"> <br>
-Sou desenvolvedor Front-End para Web e Mobile. Atualmente estudo no COTUCA (Colégio Técnico de Campinas), cursando o 3º ano de Informática!<b>
+<div style="display: inline_block">
+  <img align="left" alt="Coding-gif" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="350" width="550"><br>
+  <div>
+    <b>🔷 - Guilherme Augusto <br><br><br>
+    📅 - 17 anos <br><br><br>
+    <img align="center" alt="Brasil" height="20" width="20" src="https://cdn-icons-png.flaticon.com/512/202/202851.png"> - Campinas, SP <br><br><br>
+    👨‍🎓 - COTUCA, 3º ano em Informática <br><br><br>
+    💻 - Front-End Web e Mobile <br><br><br>
+  </div>
+</div>
 
 ##
 
@@ -51,6 +57,5 @@ Sou desenvolvedor Front-End para Web e Mobile. Atualmente estudo no COTUCA (Col�
 ### Conecte-se comigo 😀
   <div> 
     <a href = "mailto:guilherme.augusto23@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/guilherme_a_f_teixeira/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/guilherme-augusto-42b941200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
