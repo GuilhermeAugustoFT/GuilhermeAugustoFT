@@ -1,5 +1,4 @@
-#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Bem vindo(a) ao meu perfil!
-
+#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> Olá! Bem vindo(a) ao meu perfil!
 
 <div style="display: inline_block">
   <img align="left" alt="Coding-gif" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="350" width="550"><br>
