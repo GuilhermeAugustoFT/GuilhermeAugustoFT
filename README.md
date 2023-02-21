@@ -4,7 +4,7 @@
   <img align="left" alt="Coding-gif" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="350" width="550"><br>
   <div>
     <b>🔷 - Guilherme Augusto <br><br>
-    📅 - 18 anos <br><br>
+    📅 - 19 anos <br><br>
     <img align="center" alt="Brasil" height="20" width="20" src="https://cdn-icons-png.flaticon.com/512/202/202851.png"> - Campinas, SP <br><br>
     👨‍🎓 - COTUCA, Técnico em Informática <br><br>
     💼 - Estagiário de desenvolvimento na CI&T <br><br>
@@ -15,14 +15,6 @@
 
 ##
 
-### Minhas estatísticas
-<div>
-  <a href="https://github.com/GuilhermeAugustoFT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAugustoFT&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAugustoFT&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-##
   
 ### Minhas linguagens e ferramentas favoritas: 
    <div style="display: inline_block"><br>
